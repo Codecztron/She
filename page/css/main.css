@@ -395,6 +395,7 @@ body {
       rgba(0, 0, 0, 0.03) 0px,
       rgba(0, 0, 0, 0.03) 1px,
       transparent 1px,
+      
       transparent 12px
     ),
     linear-gradient(90deg, rgb(255, 235, 18), rgb(255, 206, 0));
